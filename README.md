@@ -1,4 +1,5 @@
-# Máster Data Science - Spark
+# Máster Data Science - <img src="https://github.com/jogarman/spark/blob/main/image.png?raw=true" alt="Imagen" width="150"/>
+
 
 ## Utilización del servicio de alquiler de bicicletas en Toronto en el año 2018
 
